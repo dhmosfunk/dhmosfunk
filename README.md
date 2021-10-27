@@ -1,21 +1,21 @@
-<hr>
-<h3 align="center">README </h3>
+<h1 align="center">Description</h1>
 
-<h5 align="center">
-  HTB Badge 
+<h5 align="center">HTB Badge
   <br>
-  <br>
-  <img src="http://www.hackthebox.eu/badge/image/78776" alt="Hack The Box">
   
-  [Hack The Box Profile](https://app.hackthebox.com/profile/78776)
-  
-   :mortar_board: Ionian University IT Student <br>
-   Contact me: <br>
-   📧 dhmosfnk@protonmail.com 
+   [Hack The Box Profile](https://app.hackthebox.com/profile/78776)
   
 </h5>
+<h1 align="center"><img src="http://www.hackthebox.eu/badge/image/78776" alt="Hack The Box"></h1>
+<br>
   
-<hr>
+Links:
+- :mortar_board: Ionian University IT Student <br>
+- 📧 Contact: dhmosfnk@protonmail.com 
+- [Linkedln](https://www.linkedin.com/in/%CE%B4%CE%B7%CE%BC%CE%BF%CF%83%CE%B8%CE%AD%CE%BD%CE%B7%CF%82-%CF%84%CE%B6%CE%AC%CE%BC%CE%B1-b16a39224/)
+
+  
+
 
 
 <!--
