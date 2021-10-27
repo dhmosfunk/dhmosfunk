@@ -1,10 +1,10 @@
-<h1 align="center"> Bio </h1>
+<h1 align="center">📋 Bio </h1>
 
 <h3 align="center">
   
   <img src="http://www.hackthebox.eu/badge/image/78776" alt="Hack The Box">
   
-  [Hack The Box Profile](https://app.hackthebox.com/profile/78776)
+  🟩[Hack The Box Profile](https://app.hackthebox.com/profile/78776)
   
 </h3>
   
