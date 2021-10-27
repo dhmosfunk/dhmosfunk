@@ -1,7 +1,16 @@
-### Bio 👋
+<h1 align="center"> Bio </h1>
 
-:office: Ionian University IT Student
+<h3 align="center">
+  
+  <img src="http://www.hackthebox.eu/badge/image/78776" alt="Hack The Box">
+  
+  [Hack The Box Profile](https://app.hackthebox.com/profile/78776)
+  
+</h3>
+  
 
+:mortar_board: Ionian University IT Student
+<br>
 
 
 <!--
