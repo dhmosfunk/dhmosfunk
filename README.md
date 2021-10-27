@@ -1,5 +1,5 @@
 <hr>
-<h3 align="center">📋 README </h3>
+<h3 align="center">README </h3>
 
 <h5 align="center">
   HTB Badge 
