@@ -1,18 +1,18 @@
 <hr>
-<h1 align="center">📋 README </h1>
+<h3 align="center">📋 README </h3>
 
-<h3 align="center">
+<h5 align="center">
   HTB Badge 
   <br>
   <br>
   <img src="http://www.hackthebox.eu/badge/image/78776" alt="Hack The Box">
   
-  🟩[Hack The Box Profile](https://app.hackthebox.com/profile/78776)
+  [Hack The Box Profile](https://app.hackthebox.com/profile/78776)
   
    :mortar_board: Ionian University IT Student <br>
    📧 dhmosfnk@protonmail.com 
   
-</h3>
+</h5>
   
 <hr>
 
