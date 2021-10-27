@@ -1,5 +1,5 @@
 <h1 align="center">Description</h1>
-
+<p align="center">1989 is the fifth studio album by American singer-songwriter Taylor Swift (pictured), released on October 27, 2014. Having been known as a country singer-songwriter, Swift conceived 1989 as a synth-pop record that shifted her sound and image to mainstream pop. She titled the album after her birth year as a symbolic rebirth of her image and artistry. The album's singles included three US Billboard Hot 100 number ones: "Shake It Off", "Blank Space", and "Bad Blood". Critics praised the songwriting for offering emotional engagement that they found uncommon in the mainstream pop scene. The album won the Grammy Award for Album of the Year, and featured in Rolling Stone's 2020 update of their 500 Greatest Albums of All Time. A huge commercial success, 1989 spent 11 weeks atop the US Billboard 200 and has sold over 10 million copies worldwide. (This article is part of a featured topic: 1989 (Taylor Swift album).)</p>
 <h5 align="center">HTB Badge
   <br>
   
