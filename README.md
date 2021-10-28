@@ -1,7 +1,7 @@
 <h1 align="center">Description</h1>
 <p align="center">My name is Dimosthenis Xama and I am 20 years old.
-I study Informatics in Ionian University of Corfu.
-I'm very intrested in Cyber Security field this is why I participate in the Ionian University CTF (Capture The Flag) Team.
+  I study <b>Informatics in Ionian University of Corfu</b>.
+  I'm very intrested in <b>Cyber Security</b> field this is why I participate in the <b>Ionian University CTF (Capture The Flag) Team</b>.
 This is my Github Profile where I upload all my projects, along whith other things like writeups.</p>
 <h5 align="center">HTB Badge
   <br>
