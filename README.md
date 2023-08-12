@@ -9,3 +9,6 @@
 ## Research
 * [HTTP3ONSTEROIDS -  CVE 2023 25950 Proof of concept](https://github.com/dhmosfunk/HTTP3ONSTEROIDS)
 * [CVE 2023 25690 Proof of concept](https://github.com/dhmosfunk/CVE-2023-25690-POC)
+
+## Certifications
+<a href="https://portswigger.net/web-security/e/c/0ff60ce5e6287af6)https://portswigger.net/web-security/e/c/0ff60ce5e6287af6"><img src="assets/bscpx.png" width=100></a>
