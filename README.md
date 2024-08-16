@@ -1,7 +1,7 @@
 **@dhmosfunk** <br>
 [@https://app.hackthebox.com/profile/78776](https://app.hackthebox.com/profile/78776)
 
-## Contributions to projects :
+### Pull Requests:
 
 
 | Repository | Topic  | Pull Request  |
