@@ -13,3 +13,5 @@
 * [HTTP3ONSTEROIDS -  CVE 2023 25950 Proof of concept](https://github.com/dhmosfunk/HTTP3ONSTEROIDS)
 * [CVE 2023 25690 Proof of concept](https://github.com/dhmosfunk/CVE-2023-25690-POC)
 * [Trend Micro Deep Security Agent: DNS Exfiltration using legitimate CLI utility](https://github.com/dhmosfunk/TrendMicroDSAExfil)
+* [Malware analysis - LatrodectusWEB](https://github.com/dhmosfunk/LatrodectusWEB)
+* [7-Zip-CVE-2025-0411-POC](https://github.com/dhmosfunk/7-Zip-CVE-2025-0411-POC)
