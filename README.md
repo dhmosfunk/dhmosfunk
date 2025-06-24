@@ -20,3 +20,4 @@
 - [**Trend Micro Deep Security Agent: DNS Exfiltration using Legitimate CLI Utility**](https://github.com/dhmosfunk/TrendMicroDSAExfil)
 - [**Malware Analysis - LatrodectusWEB**](https://github.com/dhmosfunk/LatrodectusWEB)
 - [**7-Zip CVE-2025-0411 Proof of Concept**](https://github.com/dhmosfunk/7-Zip-CVE-2025-0411-POC)
+- [**lauraops07 XSS at its finest. "Weaponizing XSS vulnerabilities for Red Team engagements."**](https://github.com/dhmosfunk/lauraops07-xss-at-its-finest)
